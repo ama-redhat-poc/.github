@@ -4,4 +4,5 @@ This organization contains private repos involved in the PoC activities with the
 
 Main repositories:
 - [Install manifests and scripts](../../../install/)
+- [3scale API Products](../../../ThreescaleAPIProducts/)
 - [3scale Developer Portal Customization](../../../ThreescaleDeveloperPortalCustomizations/)
