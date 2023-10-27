@@ -6,3 +6,6 @@ Main repositories:
 - [Install manifests and scripts](../../../install/)
 - [3scale API Products](../../../ThreescaleAPIProducts/)
 - [3scale Developer Portal Customization](../../../ThreescaleDeveloperPortalCustomizations/)
+- Specific PoC use case:
+    - [school-benefits-ama](../../../school-benefits-ama/)
+    - [school-benefits-producer](../../../school-benefits-producer/)
