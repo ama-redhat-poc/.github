@@ -8,5 +8,6 @@ Main repositories:
 - Specific PoC use case:
     - [school-benefits-ama](../../../school-benefits-ama/)
     - [school-benefits-producer](../../../school-benefits-producer/)
+    - [ama-school-benefits-v2](../../../ama-schoolbenefits-v2/)
 - Preferable user stories and use cases:
     - [3scale API Products](../../../ThreescaleAPIProducts/) 
